@@ -77,7 +77,7 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ![alt text](<WEB Ex LOCAL.png>)
-![alt text](<WEB Ex LOCAL.png>)
+![alt text](<WEB CODE.png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
